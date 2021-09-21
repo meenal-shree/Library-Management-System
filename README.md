@@ -1,4 +1,4 @@
-# Blood Bank Management System
+# Library Management System
 
 ## Project Description
 
